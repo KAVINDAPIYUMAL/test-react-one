@@ -26,15 +26,9 @@ function App() {
         <h1>Welcome to <span>CodeWithMuh</span> Youtube Channel!</h1>
       </header>
       <main>
-        <img src={logo} className="App-logo" alt="logo" /> {/* Use imported logo */}
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Xn3Xj9Trepc?si=3ObvKIX4iKU-nHbf" frameBorder="0" allowFullScreen title="YouTube video"></iframe>
-        <p>You are watching my latest video on <span>AWS EC2</span>.</p>
+       
         <h2>Kavinda Piyumal </h2>
-        <p>Are you connected with me on LinkedIn?</p>
-        <button onClick={checkLinkedInConnection}>Check Connection</button>
-        <p id="result"></p>
-        <button onClick={subscribeToChannel}>Subscribe to my channel</button>
-        <button onClick={toGithubRepo}>Github Repo</button>
+
       </main>
       <footer>
         <p>&copy; 2024 <span>CodeWithMuh</span></p>
