@@ -27,7 +27,7 @@ function App() {
       </header>
       <main>
        
-        <h2>Kavinda Piyumal </h2>
+        <h2>Kavinda Piyumal</h2>
 
       </main>
       <footer>
